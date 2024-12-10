@@ -1,5 +1,5 @@
 # SCCL
-
+Exploring Self-image and Cross-image Consistency Learning for Remote Sensing Burned Area Segmentation
 
 ## Benchmark Datasets
 

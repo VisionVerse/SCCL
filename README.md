@@ -6,7 +6,7 @@ Exploring Self-image and Cross-image Consistency Learning for Remote Sensing Bur
 - [BAS-AUS](https://drive.google.com/drive/folders/1So0dHK5-aKj1t6OmFhRGLh_0nsXbldZE?usp=sharing) 
 - [BAS-EUR](https://drive.google.com/drive/folders/1kEGOuljxKxIYwH54sNH_Wqmw7Sf7tTw5?usp=sharing) 
 
-## Experimental Results on U-MFNet dataset
+## Experimental Results on BAS datasets
 
 **TABLE I.** Quantitative comparisons on two BAS datasets. The best results are shown in **bold**.
 

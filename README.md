@@ -20,4 +20,4 @@ The increasing global wildfires in recent years have destroyed a large number of
 		Zoom in for details.
 
 ## Evaluation
-> We use this [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluating all SOD results.
+> We use this [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluating all BAS results.

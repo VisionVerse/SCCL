@@ -10,11 +10,11 @@
 
 **TABLE I.** Quantitative comparisons on two BAS datasets. The best results are shown in **bold**.
 
-![image](figs/sota.png)  
+![image](./figs/sota.png)  
 
 
 
-![image](/res.png)
+![image](./figs/res.png)
 **Fig. 2** Visual comparisons of different SOTA methods.
 		This figure shows that our proposed method (Ours) consistently generates burned masks close to the Ground Truth (GT).
 		Zoom in for details.

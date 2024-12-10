@@ -1,5 +1,5 @@
 # SCCL: Exploring Self-image and Cross-image Consistency Learning for Remote Sensing Burned Area Segmentation
-
+The increasing global wildfires in recent years have destroyed a large number of forests and wetlands. Non-contact remote sensing technologies for burned area segmentation (BAS) offer accurate identification and delineation of burned areas.
 
 ## Benchmark Datasets
 

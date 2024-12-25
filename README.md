@@ -45,6 +45,12 @@ After preparing data set, the ```GoPro``` data folder should be like the format 
 **Fig. 2** Visual comparisons of different SOTA methods.
 		This figure shows that our proposed method (Ours) consistently generates burned masks close to the Ground Truth (GT).
 		Zoom in for details.
+## Training
+```train.py``` contains the main training function code, and some parameters and dataset loactions need to be specified.
+```python
+python main.py --model_name "SCCL" --mode "train" --data_dir "dataset/BAS-AUS" 
+```
+
 
 ## Evaluation
 > We use this [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluating all BAS results.

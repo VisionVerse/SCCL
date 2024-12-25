@@ -6,7 +6,30 @@ The increasing global wildfires in recent years have destroyed a large number of
 Different from general object segmentation, burned areas in BAS have not only 1) local context within a single image, but also 2) global context across images.
   
 ## Benchmark Datasets
-
+After preparing data set, the ```GoPro``` data folder should be like the format below:
+```
+├── BAS_AUS
+│   ├── test
+│   │   ├── edge
+│   │   │   ├── xxxxx.jpeg
+│   │   │   ├── ......
+│   │   ├── image
+│   │   │   ├── xxxxx.jpeg
+│   │   │   ├── ......
+│   │   └── mask
+│   │       ├── xxxxxx.jpeg
+│   │       ├── ......
+│   └── train
+│       ├── edge
+│       │   ├── xxxxx.jpeg
+│       │   ├── ......
+│       ├── image
+│       │   ├── xxxx.jpeg
+│       │   ├── ......
+│       └── mask
+│           ├── xxx.jpeg
+│           ├── ......
+```
 - [BAS-AUS](https://pan.baidu.com/s/1W_sJp-El8KU2Fzogqs98fA) 
 - [BAS-EUR](https://pan.baidu.com/s/1W_sJp-El8KU2Fzogqs98fA) 
 

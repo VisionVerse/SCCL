@@ -48,7 +48,7 @@ After preparing data set, the ```GoPro``` data folder should be like the format 
 ## Training
 ```train.py``` contains the main training function code, and some parameters and dataset loactions need to be specified.
 ```python
-python main.py --model_name "SCCL" --mode "train" --data_dir "dataset/BAS-AUS" 
+python train.py --model_name "SCCL" --mode "train" --data_dir "dataset/BAS-AUS" 
 ```
 
 

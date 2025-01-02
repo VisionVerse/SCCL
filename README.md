@@ -4,7 +4,13 @@ The increasing global wildfires in recent years have destroyed a large number of
 ![image](./figs/baV2.jpg)  
 **Fig. 1** Remote sensing burned area segmentation (BAS).
 Different from general object segmentation, burned areas in BAS have not only 1) local context within a single image, but also 2) global context across images.
-  
+
+## Requirement
+- Ubuntu 18.04
+- Python 3.10
+- Pytorch 1.90
+- CUDA 11.4
+
 ## Benchmark Datasets
 After preparing data set, the ```BAS_AUS``` data folder should be like the format below:
 ```

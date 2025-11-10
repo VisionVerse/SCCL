@@ -36,8 +36,7 @@ After preparing data set, the ```BAS_AUS``` data folder should be like the forma
 │           ├── xxx.jpeg
 │           ├── ......
 ```
-- [BAS-AUS](https://pan.baidu.com/s/1kqNijg9QSAt155Bnz7asFA?pwd=s1zk) 
-- [BAS-EUR](https://pan.baidu.com/s/13N85_eADINg8a6s4ydO6-Q?pwd=9tkt) 
+
 
 ## Experimental Results on BAS datasets
 

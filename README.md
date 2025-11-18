@@ -12,7 +12,7 @@ Different from general object segmentation, burned areas in BAS have not only 1)
 - CUDA 11.4
 
 ## Benchmark Datasets
-After preparing data set, the ```BAS_AUS``` data folder should be like the format below:
+After preparing data set, the [BAS_AUS](https://pan.baidu.com/s/1_DK2vhHZEEI37U-QzXUziw)[nnmm] / [BAS_EUR](https://pan.baidu.com/s/1qIsHjfNoXoISfMJKzDIz8A)[mnqk]data folder should be like the format below:
 ```
 ├── BAS_AUS
 │   ├── test
